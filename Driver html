@@ -19,7 +19,7 @@
 		<li><strong>Develop:</strong> Install tools needed for development using Intel®&nbsp;SoC&nbsp;FPGA devices</li>
 	</ul>
 
-	<p>Sounds exciting? Then let's get you connected to the board! But first, Windows® PC users need to install a driver to enable Ethernet over USB.</p>
+	<p>Sounds existing? Then let get you connected to the board! But first, PC users need to install a driver to enable Ethernet over USB.</p>
 	<h2>Enable Ethernet Over USB</h2>
 
 	<p>Follow these steps to enable Ethernet over USB:</p>
@@ -33,17 +33,15 @@
 		<li value="3">Browse to the DE10-Nano SD Card &gt; Drivers &gt; Windows and select "RNDIS".</li>
                 <img alt="Browse to RNDIS" height="" src="Docs/Browse_to_RNDIS.png" width="">
 		<li value="4">Click OK.</li>
-		<li value="5">Open a web browser. We recommend using Google Chrome* or Mozilla Firefox*.</li>
+		<li value="5">Open a web browser.</li>
 		<li value="6">Type <b>192.168.7.1</b> into the URL pane to connect to the web site served by the board.</li><br>
 	</ol>
 	<p>Once your connected, navigate to the start, play, learn and develop pages.</p>
 	<p>When you’re ready, go back to the <strong>Develop</strong> page and click the on-line survey link to tell us what you think; your feedback will help make the next release even better.<br>
 	<br>
-	We hope your experience with the DE10-Nano board is informative and fun!</p>
+	experience with the DE10-Nano board</p>
 
-	<p>Happy developing!</p>
-
-	<p>The DE10-Nano kit team</p>
+	<p>DE10-Nano kit</p>
 </div>
 
 </body>
