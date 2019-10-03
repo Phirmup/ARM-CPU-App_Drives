@@ -1,0 +1,30 @@
+=Design Tools=
+
+/* Quartus Prime 18.0.0 Standard Edition */
+/* Demonstration Source Code: */
+/* Project Directory: Demonstration\RTL_DDR4 */ 
+?* Bit Stream: RTL_DDR4.sof */
+
+=Function Block Diagram=
+
+[[File:De10 advanced revc ddr4 rtl block diagram.jpg|600px]]
+ 
+::::'''Figure 1-1 Block diagram of DDR4 x2 demonstration'''
+
+=Demonstration Batch File= 
+Demo Batch File Folder: RTL_DDR4 \demo_batch
+
+*Batch File: test.bat
+*FPGA Configuration File: RTL_DDR4.sof
+
+:'''Table 1-1 LED Indicators'''
+:{| class="wikitable"
+  |-
+!NAME	!!Description
+|-
+|LED0	||DDR4 (A) test result
+|-
+|LED1	||DDR4 (B) test result
+|}
+
+'''[[DE10-Advance_Demonstration_Manual_revC#Chapter 2 Examples For FPGA|Back]]'''
